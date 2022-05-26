@@ -1,6 +1,6 @@
 # SoftUni-Quality-Assurance
 
-This is my final exam project for SoftUni QA Fundamentals course. I got the maximum score and grade 6.00.
+This is my final exam project for SoftUni QA Fundamentals course. I got the maximum score 100/100 and grade 6.00.
 The task for the exam was to create at least 15 test cases, issues/bug report with at least 5 bugs, at least 6 automation tests with Selenium IDE.
 
 01. Homerestate-Problem-Description this are the software requirments that we got from SoftUni.
@@ -10,3 +10,5 @@ SoftuniEXAM is the file for the Selenium IDE which includes all the automation t
 
 IMPORTANT:
 Exam duration was only 4h. Everything in this documents is made during those 4h. Nothing is modified after the exam.
+
+Special thanks to the amazing lecturer and lead of the SoftUni QA Fundamentals course **Dimo Mitev**. He was absolutely amazing!
